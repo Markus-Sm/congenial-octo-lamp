@@ -330,6 +330,10 @@ Featured Tours
   transform: translate(-50%, -50%);
   z-index: 10;
   background: var(--clr-white);
+  padding: 2rem;
+  box-shadow: var(--dark-shadow);
+  border-radius: var(--radius);
+  text-align: center;
 }
 
 .tour-card {
