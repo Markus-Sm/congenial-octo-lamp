@@ -333,7 +333,6 @@ Featured Tours
   padding: 2rem;
   box-shadow: var(--dark-shadow);
   border-radius: var(--radius);
-  text-align: center;
 }
 
 .tour-card {
