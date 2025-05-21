@@ -331,8 +331,6 @@ Featured Tours
   z-index: 10;
   background: var(--clr-white);
   padding: 2rem;
-  box-shadow: var(--dark-shadow);
-  border-radius: var(--radius);
 }
 
 .tour-card {
