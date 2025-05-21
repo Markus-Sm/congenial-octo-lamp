@@ -338,10 +338,6 @@ Featured Tours
   max-width: 600px;
   margin: 0 auto;
   margin-top: 2rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
 }
 
 .tour-card {
