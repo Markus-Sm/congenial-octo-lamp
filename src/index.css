@@ -322,13 +322,6 @@ Featured Tours
 ===============
 */
 
-.ac{
-  display: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-}
-
 .tour-card {
   transition: var(--transition);
   background: var(--clr-grey-10);
